@@ -1,0 +1,8 @@
+pip install pyttsx3
+pip install datetime
+pip install SpeechRecognition
+pip install wikipedia
+pip install webbrowser
+pip install os
+pip install pyautogui
+pip install time
